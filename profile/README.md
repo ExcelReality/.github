@@ -1,4 +1,4 @@
-![Excel Reality banner](../images/banner.png)
+![Excel Reality banner](https://raw.githubusercontent.com/ExcelReality/.github/main/images/banner.png)
 
 <div style="text-align:center"> 
     <h1>
